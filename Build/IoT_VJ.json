@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ComunicacionIOT",
+"productVersion": "0.1",
+"dataUrl": "IoT_VJ.data.unityweb",
+"wasmCodeUrl": "IoT_VJ.wasm.code.unityweb",
+"wasmFrameworkUrl": "IoT_VJ.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
